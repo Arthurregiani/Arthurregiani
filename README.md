@@ -6,6 +6,7 @@
 
 
 ✨  Apaixonado por programação e desenvolvimento de software, sempre buscando aprender e me aperfeiçoar.
+
 🔭 Buscando por um estágio.
 
 🎓 Atualmente no último período do curso de **Análise e Desenvolvimento de Sistemas** no **Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Araraquara**.
