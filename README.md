@@ -10,10 +10,10 @@ Pratico clareza, testes e entrega consistente de valor.
 ## Agora
 - Construindo: CoffeeHub — app mobile (React Native 0.80 + React 19) e API (Django 5 + DRF, PostgreSQL, Docker).
 - Backend Node/TS: Express, TypeORM, testes, Docker.
-- Estudando: Kotlin/Android com Firebase (Auth/Firestore).
+- Estudando: Arquitetura em nuvem (AWS).
 
 ## Tech Stack
-TypeScript · JavaScript · React · React Native · Node.js (Express) · TypeORM · PostgreSQL · Django/DRF · Docker · Git · Linux · Kotlin/Android · Firebase
+Java · TypeScript · JavaScript · React · React Native · Node.js (Express) · TypeORM · PostgreSQL · Django/DRF · Docker · Git · Linux · Kotlin/Android · Firebase
 
 ## Contato
 - E-mail: arthurregiani@gmail.com
