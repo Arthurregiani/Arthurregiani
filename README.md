@@ -20,29 +20,9 @@ TypeScript · JavaScript · React · React Native · Node.js (Express) · TypeOR
 - LinkedIn: https://www.linkedin.com/in/arthur-jos%C3%A9-regiani-a8ba0320b
 
 ## Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arthurregiani&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default#gh-light-mode-only)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arthurregiani&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark#gh-dark-mode-only)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurregiani&layout=compact&langs_count=8&hide_border=true&theme=default#gh-light-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurregiani&layout=compact&langs_count=8&hide_border=true&theme=github_dark#gh-dark-mode-only)
-
----
-
-## Tricks
-- Seções colapsáveis
-  <details>
-    <summary>Ver mais</summary>
-
-  - Notas técnicas, prints, anexos, etc.
-
-  </details>
-
-- Visitor badge (discreto)
-  ![Visitors](https://komarev.com/ghpvc/?username=Arthurregiani&label=Visitors&color=0e75b6&style=flat)
-
-- Citação dinâmica (rotativa)
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light#gh-light-mode-only)
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark#gh-dark-mode-only)
 
 ---
 
