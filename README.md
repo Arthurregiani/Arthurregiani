@@ -1,6 +1,6 @@
 # Arthur José Regiani
 
-Full-Stack Developer — React • Node • TypeScript  
+Full-Stack Developer.
 Construo produtos que fazem sentido. Se não fizer, eu refaço até fazer.
 
 ## Sobre
